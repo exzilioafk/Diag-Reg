@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/configwizard.tsx","./src/components/dynamicstab.tsx","./src/components/projectiontab.tsx","./src/components/structuretab.tsx","./src/data/presets.ts","./src/types/regional.ts","./src/utils/exportreport.ts","./src/utils/mathengine.ts"],"version":"5.6.3"}
