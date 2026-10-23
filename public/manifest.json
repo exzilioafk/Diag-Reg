@@ -2,16 +2,16 @@
   "name": "Diagnóstico Estratégico Territorial: Estructura, Dinámica y Proyección Productiva",
   "short_name": "Diagnóstico Territorial",
   "description": "Aplicación Web Progresiva (PWA) 100% Offline para el análisis de Estructura Productiva (Qij, QR, QS), Dinámica Regional (Shift-Share y Stilwell) y Proyección de Base Económica Exportadora.",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "orientation": "any",
-  "background_color": "#0f172a",
-  "theme_color": "#0f172a",
+  "background_color": "#09090B",
+  "theme_color": "#09090B",
   "lang": "es-MX",
   "icons": [
     {
-      "src": "/icon.svg",
+      "src": "./icon.svg",
       "sizes": "192x192 512x512",
       "type": "image/svg+xml",
       "purpose": "any maskable"
